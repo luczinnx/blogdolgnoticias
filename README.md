@@ -15,4 +15,4 @@ o desenvolvimento web usando HTML e CSS, e serve como parte do meu portfólio.
 - **HTML5:** Estrutura do site.
 - **CSS3:** Estilização e design responsivo.
 
-[![Visite o Site aqui!](https://blogdolg-git-main-luczinnxs-projects.vercel.app/)
+[![Visite o Site aqui!](https://blogdolg-git-main-luczinnxs-projects.vercel.app/)]
