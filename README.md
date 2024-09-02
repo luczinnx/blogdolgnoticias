@@ -15,4 +15,4 @@ o desenvolvimento web usando HTML e CSS, e serve como parte do meu portfólio.
 - **HTML5:** Estrutura do site.
 - **CSS3:** Estilização e design responsivo.
 
-[![Acesse o site do Blog do LG](https://img.shields.io/badge/Visite%20o%20Blog%20do%20LG-blue?style=for-the-badge)](https://calculadoraimcon.netlify.app)
+[![Acesse o site do Blog do LG](https://img.shields.io/badge/Visite%20o%20Blog%20do%20LG-blue?style=for-the-badge)](https://blogdo-mkd6bwbdh-luczinnxs-projects.vercel.app/)
