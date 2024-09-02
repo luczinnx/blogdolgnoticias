@@ -15,4 +15,4 @@ o desenvolvimento web usando HTML e CSS, e serve como parte do meu portfólio.
 - **HTML5:** Estrutura do site.
 - **CSS3:** Estilização e design responsivo.
 
-<img src="{[BadgeURLHere](https://blogdo-mkd6bwbdh-luczinnxs-projects.vercel.app/)}" />
+<img src="{[(https://blogdo-mkd6bwbdh-luczinnxs-projects.vercel.app/)}" />
